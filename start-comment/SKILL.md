@@ -1,7 +1,7 @@
----::::::::::::::::::::::::::::::
+---
 name: start-comment
 description: Trigger on /start-comment. Marks the beginning of a comment block that is kept in the OPENROUTER and LLM input stream but ignored by the agent. The content between /start-comment and /end-comment must be disregarded for understanding the query, reasoning, tool use, and response generation. Pair with the end-comment skill.
----::::::::::::::::::::::::::::::
+---
 
 # Start Comment
 
